@@ -7,6 +7,7 @@ data:  26 luglio 2014, Vigoleno
 luogo: 
 ---
 
+
 <img src="/img/loader.gif" data-src="gallery/dg-01.jpg" class="" />
 <img src="/img/loader.gif" data-src="gallery/dg-02.jpg" class="" />
 <img src="/img/loader.gif" data-src="gallery/dg-03.jpg" class="" />
