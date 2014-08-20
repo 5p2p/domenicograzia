@@ -1,7 +1,7 @@
 ---
 title: Domenico e Grazia
 layout: page
-img: /img/header.jpg
+img: img/header.jpg
 subheader:
 data:  26 luglio 2014, Vigoleno
 luogo: 
